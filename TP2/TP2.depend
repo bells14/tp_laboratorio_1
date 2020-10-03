@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601666159 source:e:\users\desktop\utn\cursoingresojs\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
